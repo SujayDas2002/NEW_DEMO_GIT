@@ -1,2 +1,2 @@
-# Hi, All I'm Sujay
-Learning Git &amp; GitHub
+# Hi, All I'm Sujay Das
+Learning Git &amp; GitHub 
